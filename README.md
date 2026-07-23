@@ -1566,9 +1566,3 @@ if (!editing) {
 //...
 ```
 
-------
-
-And this is the end, I hope you enjoyed this tutorial 🙏
-
-------
-
